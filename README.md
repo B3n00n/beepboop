@@ -1,6 +1,6 @@
 A Simple DLL that detects beep sounds in Caravan SandWitch using audio analysis and provides visual feedback based on vehicle state.
 
-<img width="1917" height="1024" alt="image" src="https://github.com/user-attachments/assets/32b7917d-d7dc-408b-9050-073dffb107d7" />
+<img width="1894" height="982" alt="image" src="https://github.com/user-attachments/assets/cba356dc-5b3d-4b8e-b554-43a852004946" />
 
 
 ## Features
@@ -135,7 +135,7 @@ When a beep is detected:
    - Only captures system audio
    - Won't detect beeps if game uses exclusive audio mode
    - Requires game/any third party audio to be muted
-<img width="980" height="585" alt="image" src="https://github.com/user-attachments/assets/3a5f4257-62bc-4c7b-80e9-221c3813c5f2" />
+<img width="964" height="586" alt="image" src="https://github.com/user-attachments/assets/7cef87dd-beee-4441-9b27-7c901e95e082" />
 
 2. **Memory Reading**
    - Memory offset (0x7DCF8B8) may change with game updates
